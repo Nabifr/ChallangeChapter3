@@ -37,6 +37,7 @@ class ViewHolder(var binding : CardListBinding) : RecyclerView.ViewHolder(bindin
 
         } )
     }
+
     override fun getItemCount(): Int {
         return daftarAbjad.size }
 }
