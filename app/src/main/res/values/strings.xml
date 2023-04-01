@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Challange Chapter 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="dataAbjad">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="Huruf">
+        <item>Anda</item>
+        <item>Antum</item>
+        <item>Andre</item>
+        <item>Analisis</item>
+
+        <item>Baca</item>
+        <item>Buku</item>
+        <item>Bapak</item>
+        <item>Bali</item>
+
+        <item>Canda</item>
+        <item>Cara</item>
+        <item>Ceramah</item>
+        <item>Condong</item>
+
+        <item>Darling</item>
+        <item>Dandy</item>
+        <item>Derana</item>
+        <item>Dword</item>
+
+        <item>Eksel</item>
+        <item>Emily</item>
+        <item>Eyang</item>
+        <item>Evarta</item>
+
+        <item>Fajar</item>
+        <item>Fahri</item>
+        <item>Fajrul</item>
+        <item>Fatimah</item>
+
+        <item>Gamtenk</item>
+        <item>Gambar</item>
+        <item>Gagap</item>
+        <item>Gege</item>
+
+        <item>Horizontal</item>
+        <item>Hint</item>
+        <item>Happy</item>
+        <item>Herlambang</item>
+
+        <item>Invite</item>
+        <item>Internal</item>
+        <item>Isya</item>
+        <item>Ilyasa</item>
+
+        <item>Jari</item>
+        <item>Jemari</item>
+        <item>Juki</item>
+        <item>Jomblo</item>
+
+        <item>Kanjeng</item>
+        <item>Kijang</item>
+        <item>Kumbang</item>
+        <item>Koraline</item>
+
+    </string-array>
+</resources>
